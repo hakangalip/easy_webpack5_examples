@@ -1,0 +1,25 @@
+/*!************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/hello-world-button/hello-world-button.css ***!
+  \************************************************************************************************************/
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+.hello-world-button {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 7px 10px;
+}
+
+.hello-world-paragraph{
+    color: blue;
+    font-size: 20px;
+}
+/*!**************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/Heading/heading.css ***!
+  \**************************************************************************************/
+h1{
+    color:blue;
+}
